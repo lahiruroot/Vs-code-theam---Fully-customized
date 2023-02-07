@@ -1,0 +1,14 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Samyak Bumb",
+    "workbench.colorCustomizations": {
+        "tab.activeBackground": "#045dda1f",
+        "button.background":  "#0b7dff",
+        "button.hoverBackground": "#00aaffe6",
+        "badge.background": "#ff00d087",
+        "icon.foreground": "#0065f3e7",
+        "button.border": "#0037ff"
+    
+    },
+    "git.autofetch": true
+}
